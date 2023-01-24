@@ -3,7 +3,9 @@ Vanderbilt Computer Science 5265 Project
 
 # Quick Navigation
 [Background](#background)
+
 [Project Description](#project-description)
+
 [Performance Metrics](#performance-metrics)
 
 # Background
