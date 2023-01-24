@@ -1,0 +1,11 @@
+Variable	Definition
+ID	Customer ID number
+Balance Limit	Amount of credit given to the customer (TWD)
+Sex	Customer's gender Ð 1: male; 2: female
+Education	Education level Ð 1: graduate; 2: undergrad; 3: high school; 4: other
+Marriage	Customer's marital status Ð 1: married; 2: single; 3: other
+Age	Customer's age in years
+Pay	History of past payments in month i Ð -1: pay duly; 1: payment delay by 1 month; 2: payment delay by 2 months; ...; 9: payment delay by > 9 months.
+Bill_Amt	Bill statement amount due (TWD) in month i
+Pay_Amt	Amount of previous payment (TWD) in month i
+Default	Did the customer default on payment? Ð 0: no; 1: yes
