@@ -20,7 +20,7 @@ Beginning in 1990, the Taiwanese government allowed the formation of new banks. 
 The Default of Credit Card Customer (DC3) data set, accessed from the UCI Machine Learning Repository, was retrieved in January, 2023. The data consists of 30,000 observations on 24 predictor variables and a single binary response variable of payment default of credit card customers in Taiwan from April, 2005 to September, 2005. Default indicates whether the customer failed to repay a debt (e.g., 1, yes; 0, no). A default can occur when a customer is unable to make timely payments, misses payments, or avoids or stops making payments. Please refer to the file, data_dictionary.csv, for more information.
 
 # Performance Metrics
-To evaluate model performance in each experiment, we will focus on the predictive balance accuracy. Balance accuracy can bet determined from the following equation:
+To evaluate model performance in each experiment, we will focus on the predictive balance accuracy. Balance accuracy can best determined from the following equation:
 
 $Balance Accuracy = \frac{Sensitivity + Specificity}{2}$
 
