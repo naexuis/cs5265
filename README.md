@@ -3,6 +3,8 @@ Vanderbilt Computer Science 5265 Project
 
 # Quick Navigation
 [Background](#background)
+[Project Description](#project-description)
+[Performance Metrics](#performance-metrics)
 
 # Background
 In this assignment, we were asked to examine the default of credit card customers dataset from the UCI Machine Learning Repository. The raw dataset will be cleaned, validated, and then additional predictor variables will be engineered by discretizing some of the continuous variables and by combining variables into new summary statistics. The feature dataset will then used with several algorithms to determine the best predictor model. The models will then be evaluated and the best model will be selected for implementation in a production environment.
